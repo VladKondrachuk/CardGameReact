@@ -1,49 +1,49 @@
 [{
-        "name": "contra",
-        "url": "./images/contra.jpg"
+        "name": "erdogan",
+        "url": "./images/erdogan.jpg"
     },
     {
-        "name": "dance",
-        "url": "./images/dance.jpg"
+        "name": "kimjongun",
+        "url": "./images/kimjongun.jpg"
     },
     {
-        "name": "donkeykong",
-        "url": "./images/donkeykong.jpg"
+        "name": "macron",
+        "url": "./images/macron.jpg"
     },
     {
-        "name": "duckhunt",
-        "url": "./images/duckhunt.jpg"
+        "name": "maduro",
+        "url": "./images/maduro.jpg"
     },
     {
-        "name": "kirby",
-        "url": "./images/kirby.jpg"
+        "name": "merkel",
+        "url": "./images/merkel.jpg"
     },
     {
-        "name": "kirbystarhighfive",
-        "url": "./images/kirbystarhighfive.jpg"
+        "name": "obama",
+        "url": "./images/obama.jpg"
     },
     {
-        "name": "marioextraspin",
-        "url": "./images/marioextraspin.jpg"
+        "name": "putin",
+        "url": "./images/putin.jpg"
     },
     {
-        "name": "marioworld",
-        "url": "./images/marioworld.jpg"
+        "name": "salvini",
+        "url": "./images/salvini.jpg"
     },
     {
-        "name": "toad",
-        "url": "./images/toad.jpg"
+        "name": "shinzoabe",
+        "url": "./images/ShinzoAbe.jpg"
     },
     {
-        "name": "waluigi",
-        "url": "./images/waluigi.jpg"
+        "name": "teresamay",
+        "url": "./images/teresamay.jpg"
     },
     {
-        "name": "zelda",
-        "url": "./images/zelda.jpg"
+        "name": "trump",
+        "url": "./images/trump.jpg"
     },
     {
-        "name": "koopa",
-        "url": "./images/koopa.jpg"
+        "name": "xijinping",
+        "url": "./images/xijinping.jpg"
     }
 ]

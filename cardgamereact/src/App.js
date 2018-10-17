@@ -9,18 +9,18 @@ import Image from "./components/Image";
 import Img from "./components/Img.json"
 
 //image imports
-import contra from "./images/contra.gif"
-import dance from "./images/dance.gif"
-import donkeykong from "./images/donkeykong.gif"
-import duckhunt from "./images/duckhunt.gif"
-import kirby from "./images/kirby.gif"
-import kirbystarhighfive from "./images/kirbystarhighfive.gif"
-import marioextraspin from "./images/marioextraspin.gif"
-import marioworld from "./images/marioworld.gif"
-import toad from "./images/toad.gif"
-import waluigi from "./images/waluigi.gif"
-import zelda from "./images/zelda.gif"
-import koopa from "./images/koopa.gif"
+import erdogan from "./images/erdogan.gif"
+import kimjongun from "./images/kimjongun.gif"
+import macron from "./images/macron.gif"
+import maduro from "./images/maduro.gif"
+import merkel from "./images/merkel.gif"
+import obama from "./images/obama.gif"
+import putin from "./images/putin.gif"
+import salvini from "./images/salvini.gif"
+import shinzoabe from "./images/shinzoabe.gif"
+import teresamay from "./images/teresamay.gif"
+import trump from "./images/trump.gif"
+import xijinping from "./images/xijinping.gif"
 
 import './App.css';
 
@@ -65,32 +65,32 @@ class App extends Component {
 
   imgSwitch = (name) => {
     switch (name) {
-      case "contra":
-        return `${contra}`
-      case "dance":
-        return `${dance}`
-      case "donkeykong":
-        return `${donkeykong}`
-      case "duckhunt":
-        return `${duckhunt}`
-      case "kirby":
-        return `${kirby}`
-      case "kirbystarhighfive":
-        return `${kirbystarhighfive}`
-      case "marioextraspin":
-        return `${marioextraspin}`
-      case "marioworld":
-        return `${marioworld}`
-      case "toad":
-        return `${toad}`
-      case "waluigi":
-        return `${waluigi}`
-      case "zelda":
-        return `${zelda}`
-      case "koopa":
-        return `${koopa}`
+      case "erdogan":
+        return `${erdogan}`
+      case "kimjongun":
+        return `${kimjongun}`
+      case "macron":
+        return `${macron}`
+      case "maduro":
+        return `${maduro}`
+      case "merkel":
+        return `${merkel}`
+      case "obama":
+        return `${obama}`
+      case "putin":
+        return `${putin}`
+      case "salvini":
+        return `${salvini}`
+      case "shinzoabe":
+        return `${shinzoabe}`
+      case "teresamay":
+        return `${teresamay}`
+      case "trump":
+        return `${trump}`
+      case "xijinping":
+        return `${xijinping}`
       default:
-        return `${koopa}`
+        return `${obama}`
     }
   }
 
